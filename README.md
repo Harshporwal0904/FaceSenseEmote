@@ -117,10 +117,6 @@ python app.py
 ![Classification report](https://github.com/user-attachments/assets/397b67c4-4bc1-48f8-8dca-aac01971b955)
 
 ---
-
-## 🤝 Contributors
-
-- Harshdeep Singh, Vaibhav Mohanty, Kirti Thakur and Aditya Vardhan
 - Model credit: FER2013
   
 ---
