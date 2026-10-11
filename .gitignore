@@ -1,0 +1,6 @@
+/test
+/train
+/static/uploads
+venv/
+
+*.jsonl
